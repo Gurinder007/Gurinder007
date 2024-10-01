@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gurinder007
-- 👀 I’m interested in data analytics and related technologies.
-- 🌱 I’m currently learning google data analytics
-- 💞️ I’m looking to collaborate on various data analytical projects
+- 👀 I’m interested in cloud engineering and related technologies.
+- 💞️ I’m looking to collaborate on various cloud engineering projects
 - 📫 How to reach me.. www.linkedin.com/in/gurinder-kaur-983949b5
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: .."I’m learning to speak french and can hold a basic conversation."
